@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikmanghani99
-- 👀 I’m interested in AI/ML, Data Engineering, data visualisation, ETL, Business Analytics, graphic and web designing, software development
-- 🌱 I’m currently learning AI Engineering tools
+- 👀 I’m interested in AI/ML, Data Engineering, data visualization, ETL/ELT, Business Analytics, graphic and web designing, software development
+- 🌱 I’m currently learning Agentic AI Engineering tools
 - 📫 How to reach me +1 7078320101
 
 <!---
